@@ -6,18 +6,10 @@
     <description>Recent content in Categories on Shushu&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Fri, 04 Jan 2019 22:57:56 +0800</lastBuildDate>
     
 	<atom:link href="https://uncleshushu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ravings</title>
-      <link>https://uncleshushu.github.io/categories/ravings/</link>
-      <pubDate>Sat, 08 Sep 2018 20:57:57 +0800</pubDate>
-      
-      <guid>https://uncleshushu.github.io/categories/ravings/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Tech</title>
@@ -25,6 +17,15 @@
       <pubDate>Fri, 04 Jan 2019 22:57:56 +0800</pubDate>
       
       <guid>https://uncleshushu.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ravings</title>
+      <link>https://uncleshushu.github.io/categories/ravings/</link>
+      <pubDate>Sat, 08 Sep 2018 20:57:57 +0800</pubDate>
+      
+      <guid>https://uncleshushu.github.io/categories/ravings/</guid>
       <description></description>
     </item>
     
