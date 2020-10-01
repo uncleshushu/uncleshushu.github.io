@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ravings on Shushu&#39;s Space</title>
-    <link>https://uncleshushu.github.io/categories/ravings/</link>
-    <description>Recent content in Ravings on Shushu&#39;s Space</description>
+    <title>Nonsenses on Shushu&#39;s Space</title>
+    <link>https://uncleshushu.github.io/categories/nonsenses/</link>
+    <description>Recent content in Nonsenses on Shushu&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Sep 2018 20:57:57 +0800</lastBuildDate>
-    
-	<atom:link href="https://uncleshushu.github.io/categories/ravings/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 08 Sep 2018 20:57:57 +0800</lastBuildDate><atom:link href="https://uncleshushu.github.io/categories/nonsenses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>它只是一个测试</title>
       <link>https://uncleshushu.github.io/post/first-test/</link>
